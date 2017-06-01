@@ -1,0 +1,42 @@
+/* Styles go here */
+
+head, body, h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.main {
+  text-align: center;
+  margin: 24px;
+}
+
+.wall {
+  background-color: orange;
+  width: 20px;
+  height: 20px;
+}
+
+.head {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
+
+.body {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+}
+
+.blank {
+  background-color: white;
+  width: 20px;
+  height: 20px;
+}
+
+.food {
+  background-color: blue;
+  width: 20px;
+  height: 20px;
+}
